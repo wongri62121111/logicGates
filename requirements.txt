@@ -1,2 +1,2 @@
 # requirements.txt
-# No additional requirements for basic usage
+pytest>=7.0.0
